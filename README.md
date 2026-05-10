@@ -1,1 +1,1 @@
-background:url('bannière image.png') center/cover;
+<img src="image logo.png" class="logo">
